@@ -19,8 +19,9 @@ bei der Digitalisierung eingschlichen hat. (Es sei darauf hingewiesen, dass der 
 Ansonsten: Die Vorlesung wurde damals von Herrn Herzog gehalten, andere Dozenten könnten andere Themen nutzen.
 
 Zu guter Letzt: Dieses Dokumment steht unter [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/);
-ferner wird darum gebeten, alle Bugfixes per Pullrequest auf github zurückzugeben. Kleine (die
-Übersichtlichkeit nicht beinträchtigende) inhaltliche Erweiterungen sind ebenfalls willkommen.
+ferner wird darum gebeten, alle Bugfixes per Pullrequest auf [github](https://github.com/Florianjw/HM-Uebersicht)
+zurückzugeben. Kleine (die Übersichtlichkeit nicht beinträchtigende) inhaltliche Erweiterungen sind
+ebenfalls willkommen.
 
 HM1
 ===
