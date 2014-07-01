@@ -1,4 +1,4 @@
-% Themen der Forlesung \
+% Themen der Vorlesung \
   „Höhere Mathematik für Informatiker“
 % Florian Weber
 % Entstanden im Sommersemester 2013\
