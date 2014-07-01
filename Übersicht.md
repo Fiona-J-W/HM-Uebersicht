@@ -64,11 +64,16 @@ HM1
 * Fourierreihen
 	* Ermöglicht Annäherung einer periodischen Funktion durch eine Reihe
 	* Vergleiche Taylor-Reihe
-* Jakobi- und Hessematrix ($H_f$)
 
 HM2
 ===
 
+Weite Teile von HM2 unterscheiden sich von HM1 eigentlich nur dadurch, dass der mehrdimensionale Fall
+betrachtet wird (einige triviale Ersetzungen wie Betrag $\rightarrow$ Norm sind natürlich nötig).
+
+* Der Raum $\mathbb{R}^n$
+	* Norm ($\approx$ mehrdimensionaler Betrag)
+	* Jakobi- und Hessematrix ($H_f$)
 * Koordinatenkonvergenz
 	* jede Komponente muss konvergent sein
 * Gradient
